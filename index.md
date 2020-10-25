@@ -1,5 +1,7 @@
 ## cydia精选源
 
+雷锋源,apt.abcydia.com
+
 威锋源：apt.weiphone.com。
 
 　　威锋精品源：repo.weiphone.com。
